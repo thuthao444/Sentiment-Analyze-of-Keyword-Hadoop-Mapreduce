@@ -28,7 +28,7 @@ public class IdentifyCommentsReducer
 		Text key = new Text();
 		if (overall > 0){
 		  String stre = keyword + " is used positively overall";
-		  FileWriter myWriter3 = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);
+		  FileWriter myWriter3 = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);
 		  myWriter3.write(stre);
 		  myWriter3.close();
 		  key.set(keyword + " is used positively overall");
@@ -36,7 +36,7 @@ public class IdentifyCommentsReducer
 		  }
 	  else if (overall < 0){
 		  String stre = keyword + " is used negatively overall";
-		  FileWriter myWriter3 = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);
+		  FileWriter myWriter3 = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);
 		  myWriter3.write(stre);
 		  myWriter3.close();
 		  key.set(keyword + " is used negatively overall");
@@ -44,7 +44,7 @@ public class IdentifyCommentsReducer
 		  }
 	  else if (overall == 0 ){
 		  String stre = keyword + " is used neutrally overall";
-		  FileWriter myWriter3 = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);
+		  FileWriter myWriter3 = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);
 		  myWriter3.write(stre);
 		  myWriter3.close();
 		  key.set(keyword + " is used neutrally overall");
@@ -56,7 +56,7 @@ public class IdentifyCommentsReducer
       throws IOException, InterruptedException {
 	  row_id ++;
 	  try {
-		  File kw = new File ("/home/hxn/hadoopMR/input/keyword.txt");		// Getting the keyword from the file
+		  File kw = new File ("/home/thao/Desktop/SentimentAnalyze/IntputData/keyword.txt");		// Getting the keyword from the file
 		  Scanner myReader = new Scanner(kw);
 		  while (myReader.hasNextLine()) {
 			  keyword = myReader.nextLine();
@@ -77,7 +77,7 @@ public class IdentifyCommentsReducer
 		String file1 = "";
     	
 		try {
-			  File pos = new File ("/home/hxn/hadoopMR/input/positive.txt");		// Checking the positive file
+			  File pos = new File ("/home/thao/Desktop/SentimentAnalyze/IntputData/positive.txt");		// Checking the positive file
 			  Scanner myReader = new Scanner(pos);
 			  while (myReader.hasNextLine()) {
 				  file += myReader.nextLine() + "~";								// Splitting the positive file
@@ -89,7 +89,7 @@ public class IdentifyCommentsReducer
 		  }
 		
 		try {
-			  File neg = new File ("/home/hxn/hadoopMR/input/negative.txt");		// Checking the negative file
+			  File neg = new File ("/home/thao/Desktop/SentimentAnalyze/IntputData/negative.txt");		// Checking the negative file
 			  Scanner myReader = new Scanner(neg);
 			  while (myReader.hasNextLine()) {
 				  file1 += myReader.nextLine() + "~";								// Splitting the negative file
@@ -117,14 +117,14 @@ public class IdentifyCommentsReducer
     				negative++;					// Incrementing the negative instances
         		}}}
     	
-    	FileWriter myWriter = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);		// Creating a resultant file
+    	FileWriter myWriter = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);		// Creating a resultant file
     	myWriter.write("Comment = " + str + "\n");		// Writing the comment in the file
     	myWriter.close();
     	key.set("Comment = " + str + "\nOverall = ");
 		context.write(key, new IntWritable(overall));
     	if (positive > negative){
     		String str1 = "Comment Sentiment = The file is POSITIVE as number of positive words are = "+ positive;
-    		FileWriter myWriter1 = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);
+    		FileWriter myWriter1 = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);
         	myWriter1.write(str1 + "\n\n\n");
         	myWriter1.close();
         	key.set(str1 + "\nOverall = ");
@@ -133,7 +133,7 @@ public class IdentifyCommentsReducer
     	}
     	else if (negative > positive){
     		String str1 = "Comment Sentiment = The comment is NEGATIVE as number of negative words are = "+ negative;
-    		FileWriter myWriter1 = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);
+    		FileWriter myWriter1 = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);
         	myWriter1.write(str1 + "\n\n\n");
         	myWriter1.close();
         	key.set(str1 + "\nOverall = ");
@@ -142,7 +142,7 @@ public class IdentifyCommentsReducer
     	}
     	else if (negative == positive){
     		String str1 = "Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = "+ negative;
-    		FileWriter myWriter1 = new FileWriter("/home/hxn/hadoopMR/input/result.txt", true);
+    		FileWriter myWriter1 = new FileWriter("/home/thao/Desktop/SentimentAnalyze/Output/result.txt", true);
         	myWriter1.write(str1+"\n\n\n");
         	myWriter1.close();
         	key.set(str1 + "\nOverall = ");
