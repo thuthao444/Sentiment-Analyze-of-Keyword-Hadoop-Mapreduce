@@ -1,0 +1,1 @@
+Sentiment analyze comments from Youtube by a keyword, using Hadoop with Mapreduce.
