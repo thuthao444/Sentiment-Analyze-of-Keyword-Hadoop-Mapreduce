@@ -1,0 +1,153 @@
+Comment = Can someone tell me the background music plz?
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = Great content as always. I have a question, maybe it will help others too. I&#x27;m starting fresh in the DS journey. There&#x27;s one thing that got me a bit discouraged, and I felt you targeted this issue in one of your videos too: One of the big reasons I decided to switch to DS is being an International career; I saw myself joining a firm, and later switching jobs, industries, even countries very easily (just like Software Engineers ^^). However, I sensed that it&#x27;s not the case with DS? I sensed like if I joined a certain industry as Data Scientist, my skills won&#x27;t be easily transferable to other industries. For example, you joined the DS world in the sport industry, right? Do you feel your experience is easily transferred to other industries (like automotive, social media, music, retail, etc...). Landing a job in a different company/industry is easy? Your opinion is much appreciated!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 8
+
+
+Comment = Great interview! As someone from Europe I am particularly interested in the entire process outside of the US, since currently there is not a lot of information on this topic online. One small note; at some points in the video, especially when the audio of you talking is a bit low, the music makes it a bit more difficult to follow along. Still an awesome discussion tho! :)
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 1
+
+
+Comment = Great video, Ken! I can relate to the inability to listen to music with words while I study. There&#x27;s too much conflict in my mind that I can&#x27;t focus on the subject at hand.
+Comment Sentiment = The comment is NEGATIVE as number of negative words are = 2
+
+
+Comment = Hey Ken, love your video...and would like to know the background music...
+Comment Sentiment = The file is POSITIVE as number of positive words are = 2
+
+
+Comment = Hey ken, let&#x27;s share our music playlists.
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = Hi Ken , thank you for the interview . Really useful for beginners like me . But please avoid the background music. Its distracting.
+Comment Sentiment = The file is POSITIVE as number of positive words are = 3
+
+
+Comment = Hi Ken, I&#x27;ve been watching your content for a while now, and I love what you put out. Thank you for the videos. I do have a small request. Could you perhaps remove the background music in your videos? Sometimes the music comes off as irritating and given that the main content of your videos is the dialogue, I feel like it&#x27;s unnecessary to have the background music for the type of videos you make. Keep putting out the great content! I&#x27;m learning a lot from you :)
+Comment Sentiment = The file is POSITIVE as number of positive words are = 3
+
+
+Comment = Hi Ken, i need your honest opinion man I&#x27;m confused in choosing between Data Scientist or UX Designer There are few questions about this topic, but i want to ask from different perspective I am right now a content creator, was a videographer so i do edit videos and such Visualization is always a part of me, i like to vizualize things like when i hear music i can imagine the videos that fits the music But what i asked is much bigger than that I know lots of people talk about what you&#x27;re more into, if maths go with data science, if creative go with ux design However, i want to know how&#x27;s the life of both careers? Which one offer better work life balance? Because when i did creative work, i didn&#x27;t really have work life balance, i did a lot of overwork stuffs, because creative work sometimes requires you to think constantly or out of the box that really absorbed your attention even outside of your work hours. When i go outside, my body is in holiday mode but my mind is not there, thinking of the unfinished project. Then second, which one is more important and irreplaceable? Because i see lots of websites now offering design templates which mean maybe in the future, companies don&#x27;t really need ux designer since they can use good templates from the internet. Third, when you become the CEO of the company. Which skill is best to master? Data science or ux design? That will absolute critical as someone in that position. Like to hear your thoughts about this, thank you
+Comment Sentiment = The file is POSITIVE as number of positive words are = 20
+
+
+Comment = I also love the background music. Can you tell me where can I find it?
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = I am an entry level software engineer in the pension domain. But I want to work in the data science field for music technology, specifically Music Information Retrieval. I have an average programming experience through MATLAB and C++. I will be following some of your tips to get started on my data science journey but this was definitely motivational and directional.
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = I am impressed by this video, especially the parts about habits and &quot;learning about learning.&quot; As to sound during study, I don&#x27;t do well with any music or speaking that I understand; random sounds (beaches, rain, wildlife, radio noise) is better. LOL, if there&#x27;s silence, my mind wanders into some distracting worries...
+Comment Sentiment = The file is POSITIVE as number of positive words are = 3
+
+
+Comment = I first learned about lambda functions and feature engineering from your Titanic Project tutorials months ago :) I&#x27;ve come so far since then thanks to u .. Btw love the music, I suggest it gets louder for like two seconds at the end.
+Comment Sentiment = The file is POSITIVE as number of positive words are = 2
+
+
+Comment = I follow both of your content and I love it! I have a biology undergrad and I have one more year for my masters in music performance. I wanted to transition into data science/ SWE, would you recommend the MCIT program? Are there programs like that which made for non cs majors? Extremely inspiring content
+Comment Sentiment = The file is POSITIVE as number of positive words are = 5
+
+
+Comment = I would rather listen to this without background music. It&#x27;s so relaxing that it makes me sleep :)
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = I&#x27;m glad that you don&#x27;t use background music anymore 
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = Last 30 seconds music is like bollywood movie scene... 
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = Man I wish I had seen this sooner, definitely clears up so much. Although, now I realize I&#x27;ve never actually even worked on git locally and just do all my work(projects) on github, is that okay or should I learn how to use Git locally? Also digging the music!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 3
+
+
+Comment = Man the background music is so chilling.
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = Nice Simple Beginning without the fancy graphics and music :-)
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = Nice content and perfect background music!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = Please stop the music behind videos It&#x27;s create noisy environment 
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = Really good interview Ken ! Just one suggestion as audience: Do not add background music, it is annoying
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 1
+
+
+Comment = Sir background music was not necessary 
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = Super video. Super inspiring. Only wished that the background music was more calm. :(
+Comment Sentiment = The file is POSITIVE as number of positive words are = 2
+
+
+Comment = Thank you for this great video! I&#x27;ve already subscribed to your channel, digging to find a lots of DS insights )) But please improve the audio quality in future videos: background noises are really frustrating, and a background music seems to be a little bit loud. But again, you&#x27;re making a great resource that is very useful for Data Science beginners like me!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 5
+
+
+Comment = Thanks Ken for the work from home tips, agree with you that a dedicated work space helps to boost productivity. What also works for me is a good background music as a sort of white noise (helps to be in the zone).
+Comment Sentiment = The file is POSITIVE as number of positive words are = 6
+
+
+Comment = Thanks Ken, intro music is superb!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = Thanks as always. what music are you using at 4:07?
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = This is very inspirational man. And I like the background elevator music too!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 2
+
+
+Comment = This video helped a bunch! Im a high school senior who is torn between my major for next year. Im deciding between music and sports business/marketing. Im pretty well versed with how the sports world works due to just falling in love with sports in general. Is there any chance I could get your email? I would love to be able to chat about this field!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 6
+
+
+Comment = Usually, background music makes videos bad. But seriously your skill of applying background music is awesome which makes the watching experience really great.
+Comment Sentiment = The file is POSITIVE as number of positive words are = 3
+
+
+Comment = Very annoying background music. Also in podcast. Otherwise perfect.
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 1
+
+
+Comment = Watching a data science video on YouTube was a good punch... Also if you don&#x27;t mind can you share which background music you have used in the background because for me it is also helping me to stay connected...
+Comment Sentiment = The file is POSITIVE as number of positive words are = 2
+
+
+Comment = Watching in early 2022. I really like this breakdown of process and how to think about solving problems. I&#x27;m a musician, producer and recording engineer and a lot of these....learn-by-doing and divergent thought processes remind me a lot of how to get a good mix or composing. Really excited on this journey
+Comment Sentiment = The file is POSITIVE as number of positive words are = 3
+
+
+Comment = What music are you using for the transitions in your videos? It&#x27;s pretty groovy!
+Comment Sentiment = The file is POSITIVE as number of positive words are = 1
+
+
+Comment = sir can you tell your background music?
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+Comment = sir, could you please tell me about the background music being used .its so motivating and it gives me a pump for pushing myself forward.
+Comment Sentiment = The comment is NEUTRAL as number of negative and positive words are the same = 0
+
+
+music is used positively overall
