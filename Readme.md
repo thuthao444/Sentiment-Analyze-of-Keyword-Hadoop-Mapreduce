@@ -1,1 +1,1 @@
-Sentiment analyze comments from Youtube by a keyword, using Hadoop with Mapreduce.
+#Chủ đề: Phân tích cảm xúc bình luận dựa trên từ khóa.#
